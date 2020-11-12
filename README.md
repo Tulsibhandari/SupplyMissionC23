@@ -1,2 +1,1 @@
-# SupplyMissionC23
-Project23
+# SupplyMission
